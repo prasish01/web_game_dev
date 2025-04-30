@@ -10,3 +10,5 @@ This repository contains all the mini JavaScript game development projects I'm w
 | Day 2 | [Parallax Background](./Day02-Parallax_Scrolling) | Learn how to create parallax scrolling effects using layers. |
 | Day 2 | [Particle Trail](./Day02-Canvas)                  | Create interactive particles that follow mouse movement.     |
 | Day 4 | [Ememy Movement](./Day04-Flying_Creatures)        | Enemy flying movements                                       |
+| Day 5 | [Sound Effects](./Day05-Audio_Visual_Effect)      | Adding Sound Effects on game                                 |
+| Day 6 | [Shooter Game](./Day06-Shooter_Game)              | Making First Game                                            |
